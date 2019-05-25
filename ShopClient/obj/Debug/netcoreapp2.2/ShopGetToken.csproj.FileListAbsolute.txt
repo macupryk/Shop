@@ -1,0 +1,7 @@
+E:\Git\ShopApi\ShopGetToken\bin\Debug\netcoreapp2.2\ShopGetToken.deps.json
+E:\Git\ShopApi\ShopGetToken\bin\Debug\netcoreapp2.2\ShopGetToken.runtimeconfig.json
+E:\Git\ShopApi\ShopGetToken\bin\Debug\netcoreapp2.2\ShopGetToken.runtimeconfig.dev.json
+E:\Git\ShopApi\ShopGetToken\bin\Debug\netcoreapp2.2\ShopGetToken.dll
+E:\Git\ShopApi\ShopGetToken\obj\Debug\netcoreapp2.2\ShopGetToken.csproj.CoreCompileInputs.cache
+E:\Git\ShopApi\ShopGetToken\obj\Debug\netcoreapp2.2\ShopGetToken.AssemblyInfoInputs.cache
+E:\Git\ShopApi\ShopGetToken\obj\Debug\netcoreapp2.2\ShopGetToken.AssemblyInfo.cs
